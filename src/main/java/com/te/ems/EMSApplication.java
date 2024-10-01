@@ -12,7 +12,7 @@ public class EMSApplication {
 		System.out.println("EMSApplication");
 		SpringApplication.run(EMSApplication.class, args);
 	}
-	 public void Com
+	
 
 
 
