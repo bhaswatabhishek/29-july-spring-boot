@@ -14,6 +14,8 @@ public class EMSApplication {
 		SpringApplication.run(EMSApplication.class, args);
         System.out.println("helllo  world");
         System.out.println("hi");
+        System.out.println("hellocls" +
+                "");
 	}
 
 	@Bean
